@@ -1,4 +1,4 @@
-package com.zhangrenhua.echo;
+package com.zhangrenhua.netty.echo;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

@@ -1,4 +1,4 @@
-package com.zhangrenhua.echo;
+package com.zhangrenhua.netty.echo;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
