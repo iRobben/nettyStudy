@@ -31,6 +31,11 @@
       <artifactId>netty-all</artifactId>
       <version>4.1.35.Final</version>
     </dependency>
+      <dependency>
+          <groupId>com.aliyun.openservices</groupId>
+          <artifactId>tablestore</artifactId>
+          <version>4.1.0</version>
+      </dependency>
   </dependencies>
 
   <build>
