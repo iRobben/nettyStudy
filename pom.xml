@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.zhangrenhua</groupId>
-  <artifactId>echo</artifactId>
+  <artifactId>nettyStudy</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>echo</name>
+  <name>nettyStudy</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
